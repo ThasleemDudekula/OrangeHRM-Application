@@ -1,0 +1,85 @@
+package com.OrangeHRMapplicationPagesTest;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.Base_Test;
+import com.OrangeHRMapplicationPages.OrangeHRMapplicationLogInPage;
+
+public class OrangeHRMapplicationHomePageTest extends Base_Test{
+	
+	@Test(priority=1)
+	public void OrangeHRMapplicationLogInPage_LogIn_PanelTextTest()
+	{
+	
+		OrangeHRMapplicationLogInPage OrangeHRMLogin=new OrangeHRMapplicationLogInPage();
+		OrangeHRMLogin.OrangeHRMapplicationLogInPage_LogIn_PanelText();
+	}
+	
+	@Test(priority=2,description="Validating OrangeHRM Application Username - Username")
+	public void OrangeHRMapplicationLoginUsernameTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMapplicationLoginUsername();
+		
+	}
+	
+	 @Test(priority=3,description="Validating OrangeHRM Application Password - Password")
+	public void OrangeHRMapplicationLogInPasswordTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMapplicationLogInPassword();
+	}
+	
+    @Test(priority=4,description="Validating OrangeHRM Application LogIn")
+	public void OrangeHRMapplicationLogInTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMapplicationLogIn();
+	}
+	
+    @Test(priority=2,description="Validating OrangeHRM Logo display")
+	public void OrangeHRMlogoTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMlogo();
+	}
+	
+	
+	@Test(priority=3,description="Validating OrangeHRM Homepage title")
+	public void OrangeHrmTitle()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHrmTitle();
+	}
+	
+	@Test(priority=4,description="Validating OrangeHRM Homepage Url")
+	public void OrangeHRmUrlTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRmUrl();
+	}
+	
+	@Test(priority=12)
+	public void OrangeHRMhomepageTitleTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMhomepageTitle();	
+	}
+	
+	@Test(priority=13)
+	public void WelcomeAdminTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.WelcomeAdmin();
+	}
+    
+	@Test(priority=13)
+    public void pimFunctionalityTest()
+    {
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		
+    }
+    
+    
+
+}

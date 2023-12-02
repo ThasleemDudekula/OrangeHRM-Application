@@ -1,0 +1,247 @@
+package com.OrangeHRMapplicationPages;
+
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.BaseTest.Base_Test;
+import com.Utility.Log;
+
+
+
+public class OrangeHRMapplicationLogInPage extends Base_Test {
+
+	public OrangeHRMapplicationLogInPage()
+	{
+		PageFactory.initElements(driver, this);
+
+	}
+	
+	Actions keyboard=new Actions(driver);
+	
+	
+	@FindBy( id="logInPanelHeading")
+	WebElement LogInPanel;
+	
+	// id="txtUsername"
+	@FindBy(id="txtUsername")
+	WebElement UserName;
+	
+	// id="txtPassword"
+	@FindBy(id="txtPassword")
+	WebElement Password;
+	
+	// id="btnLogin"
+	@FindBy(id="btnLogin")
+	WebElement LogIn;
+	
+	// /html/body/div[1]/div/div[2]/div/img
+	
+	////*[@id="divLogo"]/img
+	//<img src="/orangehrm-4.2.0.1/symfony/web/webres_5bdfdad33dec87.24121780/themes/default/images/login/logo.png">
+	//  //*[@id="divLogo"]/img
+	
+	@FindBy(xpath="/html/body/div[1]/div/div[2]/div/img")
+	WebElement Logo;
+	
+	
+	
+	
+	
+	
+	public void OrangeHRMapplicationLogInPage_LogIn_PanelText()
+	{
+		String Actual_TextOfLogInPanelText="LOGIN Panel";
+		Log.info("The Expected Text of LogIn Panel is:"+Actual_TextOfLogInPanelText);
+		
+		String ExpectedTextOfLogInPanelText=LogInPanel.getText();
+		Log.info("The Expected Text of LogIn Panel is:"+ExpectedTextOfLogInPanelText);
+		
+	if(Actual_TextOfLogInPanelText.equals(ExpectedTextOfLogInPanelText))
+	{
+		Log.info("Succesfully Navigated to OrangeHRM LogIn page: PASS");
+	}
+	else
+	{
+		Log.info("Not Navigated to OrangeHRM LogIn page: FAIL");
+	}
+		
+	}
+	
+	public void OrangeHRMapplicationLoginUsername()
+	{
+		UserName.sendKeys("Admin");
+		Log.info("Username is passed ");
+	}
+	
+	
+	public void OrangeHRMapplicationLogInPassword()
+	{
+		Password.sendKeys("Thasleem@07");
+		Log.info("Password is passed");
+		
+	}
+	
+	public void OrangeHRMapplicationLogIn()
+	{
+		LogIn.click();
+		Log.info("OrangeHRMapplication LogIn successfully");
+		
+	}
+	
+	
+	public void OrangeHRMlogo()
+	{
+		boolean flag=Logo.isDisplayed();
+		
+		if(flag)
+		{
+			Log.info("OrangeHRMLogo is displayed sucessfully");	
+		}
+		else
+		{
+			Log.info("OrangeHRMLogo is not displayed");
+		}
+		
+	}
+	
+	public void OrangeHrmTitle()
+	{
+		driver.getTitle();
+		Log.info("OrangeHRM Homepage Title is displayed");
+	}
+	
+	public void OrangeHRmUrl()
+	{
+		driver.getCurrentUrl();
+		Log.info("OrangeHRM Homepage Url is displayed");
+	}
+	
+	
+	
+	//<input type="button" value="Login" name="openIdLogin" id="openIdLogin" disabled="disabled">
+	
+	@FindBy(id="openIdLogin")
+	WebElement LogInn;
+	
+	public void OrngeHRMAlternativeLoginnn()
+	{
+		
+		String AlternateLogInText=LogInn.getAttribute("value");
+		Log.info("Alternate Login Text is:"+AlternateLogInText);
+		Log.info("Alternative LogIn is succesfully clicked");
+	}
+	
+	
+	// id="openIdProvider"
+	
+	@FindBy(id="openIdProvider")
+	WebElement SelectDropDown;
+	
+	public void OrangeHRMhomepageSelectDropDown()
+	{
+		SelectDropDown.click();
+		String SelectDropDownText=SelectDropDown.getText();
+		Log.info("Select DropDown Text is:"+SelectDropDownText);
+		
+	}
+	
+	
+	// //*[@id="footer"]/div[1]
+	@FindBy(xpath="//*[@id=\"footer\"]/div[1]")
+	WebElement LogInLink;
+	
+	public void OrangeHRMhomepageLogInLink()
+	{
+		String OrangeHRMlogInLinkText=LogInLink.getText();
+		Log.info("OrangeHrmLogInLink is:"+OrangeHRMlogInLinkText);
+		LogInLink.click();
+	}
+	
+	
+	// <img src="/orangehrm-4.2.0.1/symfony/web/webres_5bdfdad33dec87.24121780/themes/default/images/login/linkedin.png" alt="LinkedIn OrangeHRM group">
+	// //*[@id="social-icons"]/a[1]/img
+	
+	@FindBy(xpath="//*[@id=\"social-icons\"]/a[1]/img")
+	WebElement LinkedIn;
+	
+	public void OrangeHRMhomepageLinkedInLink()
+	{
+		LinkedIn.click();
+	}
+	
+	// xpath="//*[@id="social-icons"]/a[2]/img"
+	
+	//  /html/body/div[1]/div/div[4]/div[2]/a[2]/img
+    @FindBy(xpath="/html/body/div[1]/div/div[4]/div[2]/a[2]/img")
+	WebElement Facebook;
+	
+	public void OrangeHRMhomepageFacebooklink()
+	{
+		Facebook.click();
+	}
+	
+	
+	//  /html/body/div[1]/div/div[4]/div[2]/a[3]/img
+	@FindBy(xpath="/html/body/div[1]/div/div[4]/div[2]/a[2]/img")
+	WebElement Twitter;
+   
+	public void OrangeHRMapplicationTwitterLink()
+	{
+		Twitter.click();
+	}
+	
+	//  //*[@id="social-icons"]/a[4]/img
+	@FindBy(xpath="//*[@id=\"social-icons\"]/a[4]/img")
+	WebElement YouTube;
+	
+	public void OrangeHRMapplicationYouTubeLink()
+	{
+		YouTube.click();
+	}
+	
+	
+	public void OrangeHRMhomepageTitle()
+	{
+		
+		String Expected_HomepageTitle="OrangeHRM";
+		
+		String actual_HomepageTitle=driver.getTitle();
+		
+		if(actual_HomepageTitle.equals(Expected_HomepageTitle))
+		{
+			Log.info("actual_HomepageTitle is matched with expcted-PASS");
+		}
+		else
+		{
+			Log.info("actual_HomepageTitle is  NOT matched with expcted-FAIL");
+		}
+	}
+	
+	// id="welcome"
+	@FindBy(id="welcome")
+	WebElement WelComeAdmin;
+	
+	public void WelcomeAdmin()
+	{
+		String Actual_WelcomeAdminText=WelComeAdmin.getAttribute("href");
+		Log.info(Actual_WelcomeAdminText);
+		
+		String Expeted_WelcomeAdminText="Welcome Admin";
+		
+		if(Actual_WelcomeAdminText.contains(Expeted_WelcomeAdminText))
+		{
+			Log.info("Actual Welcome Admin is matched- PASS");
+		}
+		else
+		{
+			Log.info("Actual Welcome Admin is NOT matched- FAIL");
+		}
+		
+		
+	}
+	
+	
+}

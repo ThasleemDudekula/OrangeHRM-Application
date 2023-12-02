@@ -1,0 +1,213 @@
+package com.OrangeHRMapplicationPages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+
+import com.BaseTest.Base_Test;
+import com.Utility.Log;
+
+public class OrangeHRMapplicationHomePage extends Base_Test {
+
+	public void OrangeHRMapplicationLogInPage()
+	{
+		PageFactory.initElements(driver, this);
+
+	}
+	
+	Actions keyboard=new Actions(driver);
+	
+	
+	@FindBy( id="logInPanelHeading")
+	WebElement LogInPanel;
+	
+	// /html/body/div[1]/div/div[2]/div/img
+	
+	////*[@id="divLogo"]/img
+	//<img src="/orangehrm-4.2.0.1/symfony/web/webres_5bdfdad33dec87.24121780/themes/default/images/login/logo.png">
+	//  //*[@id="divLogo"]/img
+	
+	
+	
+	public void OrangeHRMapplicationLogInPage_LogIn_PanelText()
+	{
+		String Actual_TextOfLogInPanelText="LOGIN Panel";
+		Log.info("The Expected Text of LogIn Panel is:"+Actual_TextOfLogInPanelText);
+		
+		String ExpectedTextOfLogInPanelText=LogInPanel.getText();
+		Log.info("The Expected Text of LogIn Panel is:"+ExpectedTextOfLogInPanelText);
+		
+	if(Actual_TextOfLogInPanelText.equals(ExpectedTextOfLogInPanelText))
+	{
+		Log.info("Succesfully Navigated to OrangeHRM LogIn page: PASS");
+	}
+	else
+	{
+		Log.info("Not Navigated to OrangeHRM LogIn page: FAIL");
+	}
+		
+	}
+	
+	
+	// id="txtUsername"
+		@FindBy(id="txtUsername")
+		WebElement UserName;
+	
+	public void OrangeHRMapplicationLoginUsername()
+	{
+		UserName.sendKeys("Admin");
+		Log.info("Username is passed ");
+	}
+	
+	
+	// id="txtPassword"
+		@FindBy(id="txtPassword")
+		WebElement Password;
+	
+	public void OrangeHRMapplicationLogInPassword()
+	{
+		Password.sendKeys("Thasleem@07");
+		Log.info("Password is passed");
+		
+	}
+	
+	// id="btnLogin"
+		@FindBy(id="btnLogin")
+		WebElement LogIn;
+	
+	public void OrangeHRMapplicationLogIn()
+	{
+		LogIn.click();
+		Log.info("OrangeHRMapplication LogIn successfully");
+		
+	}
+	
+	
+	@FindBy(xpath="/html/body/div[1]/div/div[2]/div/img")
+	WebElement Logo;
+	
+	public void OrangeHRMlogo()
+	{
+		boolean flag=Logo.isDisplayed();
+		
+		if(flag)
+		{
+			Log.info("OrangeHRMLogo is displayed sucessfully");	
+		}
+		else
+		{
+			Log.info("OrangeHRMLogo is not displayed");
+		}
+		
+	}
+	
+	public void OrangeHrmTitle()
+	{
+		driver.getTitle();
+		Log.info("OrangeHRM Homepage Title is displayed");
+	}
+	
+	public void OrangeHRmUrl()
+	{
+		driver.getCurrentUrl();
+		Log.info("OrangeHRM Homepage Url is displayed");
+	}
+	
+	public void OrangeHRMhomepageTitle()
+	{
+		
+		String Expected_HomepageTitle="OrangeHRM";
+		
+		String actual_HomepageTitle=driver.getTitle();
+		
+		if(actual_HomepageTitle.equals(Expected_HomepageTitle))
+		{
+			Log.info("actual_HomepageTitle is matched with expcted-PASS");
+		}
+		else
+		{
+			Log.info("actual_HomepageTitle is  NOT matched with expcted-FAIL");
+		}
+	}
+	
+	///html/body/div[1]/div[1]/a[2]
+	//<a href="#" id="welcome" class="panelTrigger">Welcome Admin</a>
+	// id="welcome"
+	@FindBy(id="welcome")
+	WebElement WelComeAdmin;
+	
+	public void WelcomeAdmin()
+	{
+		
+		String Actual_WelcomeAdminText=WelComeAdmin.getText();
+		Log.info(Actual_WelcomeAdminText);
+		
+		String Expeted_WelcomeAdminText="Welcome Admin";
+		
+		if(Actual_WelcomeAdminText.contains(Expeted_WelcomeAdminText))
+		{
+			Log.info("Actual Welcome Admin is matched- PASS");
+		}
+		else
+		{
+			Log.info("Actual Welcome Admin is NOT matched- FAIL");
+		}	
+	}
+	
+//   id="menu_pim_viewPimModule" 
+	
+	@FindBy(id="menu_pim_viewPimModule")
+	WebElement PIMproperty;
+	
+	public void pimFunctionality()
+	{
+		PIMproperty.click();
+		
+	}
+	
+	///<a href="/orangehrm-4.2.0.1/symfony/web/index.php/pim/addEmployee" id="menu_pim_addEmployee">Add Employee</a>
+	@FindBy(id="menu_pim_addEmployee")
+	WebElement addemployeeproperty;
+
+	public void addEmployeeLinkFunctionality()
+	{
+	addemployeeproperty.click();
+	}
+
+	//<input class="formInputText" maxlength="30" type="text" name="firstName" id="firstName">
+	@FindBy(id="firstName")
+	WebElement firstNameProperty;
+
+	//<input class="formInputText" maxlength="30" type="text" name="middleName" id="middleName">
+	@FindBy(id="middleName")
+	WebElement middleNameProperty;
+
+	//<input class="formInputText" maxlength="30" type="text" name="lastName" id="lastName">
+	@FindBy(id="lastName")
+	WebElement lastNameProperty;
+
+	@FindBy(id="employeeId")
+	WebElement employeeidProperty;
+	//<input type="button" class="" id="btnSave" value="Save">
+	@FindBy(id="btnSave")
+	WebElement saveButtonProperty;
+
+	public void  firstNameFunctionality(String firstname,String MiddleName,String lastName)
+	{
+	saveButtonProperty.click();
+	firstNameProperty.sendKeys(firstname);
+	middleNameProperty.sendKeys(MiddleName);
+	lastNameProperty.sendKeys(lastName);
+
+	String empid=employeeidProperty.getAttribute("value");
+
+	saveButtonProperty.click();
+	driver.navigate().back();
+	}
+
+
+
+	
+}

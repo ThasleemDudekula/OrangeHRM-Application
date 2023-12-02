@@ -1,0 +1,49 @@
+package com.OrangeHRMapplicationPagesTest;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.Base_Test;
+import com.OrangeHRMapplicationPages.OrangeHRMapplicationLogInPage;
+
+public class OrangeHRMapplicationLogInPageTest extends Base_Test {
+
+	@Test(priority=1,description="Validating OrangeHRM Application LogIn Page Text - LOGIN Panel")
+	public void OrangeHRMapplicationLogInPage_LogIn_PanelTextTest()
+	{
+		
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMapplicationLogInPage_LogIn_PanelText();
+			
+	}
+	
+	@Test(priority=3,description="Validating OrangeHRM Application Username - Username")
+	public void OrangeHRMapplicationLoginUsernameTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMapplicationLoginUsername();
+		
+	}
+	
+	@Test(priority=4,description="Validating OrangeHRM Application Password - Password")
+	public void OrangeHRMapplicationLogInPasswordTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMapplicationLogInPassword();
+	}
+	
+	@Test(priority=5,description="Validating OrangeHRM Application Password - Password")
+	public void OrangeHRMapplicationLogInTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMapplicationLogIn();
+	}
+	
+	@Test(priority=2,description="Validating OrangeHRM Logo display")
+	public void OrangeHRMlogoTest()
+	{
+		OrangeHRMapplicationLogInPage orangeHRMapplication=new OrangeHRMapplicationLogInPage();
+		orangeHRMapplication.OrangeHRMlogo();
+	}
+	
+	
+}

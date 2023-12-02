@@ -1,0 +1,569 @@
+2023-11-24 16:58:39,368 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-24 17:01:27,806 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-24 17:01:28,287 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-24 17:20:38,349 - Log -INFO - Successfully launched the browser
+2023-11-24 17:20:38,838 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-24 17:20:39,973 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-24 17:22:55,878 - Log -INFO - Successfully launched the browser
+2023-11-24 17:22:56,368 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-24 17:22:56,589 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-24 17:22:56,808 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-24 17:22:56,810 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-24 17:22:57,514 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 09:54:56,113 - Log -INFO - Successfully launched the browser
+2023-11-27 09:54:57,402 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 09:54:57,690 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 09:54:57,745 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 09:54:57,750 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 09:54:58,551 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 09:58:53,971 - Log -INFO - Successfully launched the browser
+2023-11-27 09:58:54,614 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 09:58:54,868 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 09:58:54,921 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 09:58:54,926 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 09:58:55,802 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 10:00:43,223 - Log -INFO - Successfully launched the browser
+2023-11-27 10:00:43,962 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 10:00:44,224 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 10:00:44,271 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 10:00:44,277 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 10:00:44,407 - Log -INFO - OrangeHRM application username 
+2023-11-27 10:00:45,123 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 11:34:16,959 - Log -INFO - Successfully launched the browser
+2023-11-27 11:34:17,798 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 11:34:18,087 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:34:18,137 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:34:18,141 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 11:34:18,296 - Log -INFO - Username is passed 
+2023-11-27 11:34:18,410 - Log -INFO - Password is passed
+2023-11-27 11:34:19,155 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 11:39:12,159 - Log -INFO - Successfully launched the browser
+2023-11-27 11:39:12,843 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 11:39:13,102 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:39:13,148 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:39:13,153 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 11:39:13,261 - Log -INFO - Username is passed 
+2023-11-27 11:39:13,374 - Log -INFO - Password is passed
+2023-11-27 11:39:14,094 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 11:39:49,916 - Log -INFO - Successfully launched the browser
+2023-11-27 11:39:50,555 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 11:39:50,819 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:39:50,863 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:39:50,868 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 11:39:50,992 - Log -INFO - Username is passed 
+2023-11-27 11:39:51,120 - Log -INFO - Password is passed
+2023-11-27 11:42:40,366 - Log -INFO - Successfully launched the browser
+2023-11-27 11:42:41,112 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 11:42:41,365 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:42:41,412 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:42:41,417 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 11:42:41,559 - Log -INFO - Username is passed 
+2023-11-27 11:42:41,671 - Log -INFO - Password is passed
+2023-11-27 11:45:32,840 - Log -INFO - Successfully launched the browser
+2023-11-27 11:45:52,995 - Log -INFO - Successfully launched the browser
+2023-11-27 11:45:53,680 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 11:45:53,945 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:45:53,989 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:45:53,994 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 11:45:54,127 - Log -INFO - Username is passed 
+2023-11-27 11:45:54,236 - Log -INFO - Password is passed
+2023-11-27 11:46:40,089 - Log -INFO - Successfully launched the browser
+2023-11-27 11:46:40,729 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 11:46:41,010 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:46:41,055 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:46:41,060 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 11:46:41,182 - Log -INFO - Username is passed 
+2023-11-27 11:46:41,296 - Log -INFO - Password is passed
+2023-11-27 11:47:39,499 - Log -INFO - Successfully launched the browser
+2023-11-27 11:47:40,109 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 11:47:40,385 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:47:40,431 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:47:40,436 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 11:47:40,583 - Log -INFO - Username is passed 
+2023-11-27 11:47:40,688 - Log -INFO - Password is passed
+2023-11-27 11:49:40,884 - Log -INFO - Successfully launched the browser
+2023-11-27 11:49:41,485 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 11:49:41,770 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:49:41,815 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 11:49:41,819 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 11:49:41,948 - Log -INFO - Username is passed 
+2023-11-27 11:49:42,041 - Log -INFO - Password is passed
+2023-11-27 11:49:49,733 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 12:00:48,387 - Log -INFO - Successfully launched the browser
+2023-11-27 12:00:49,016 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:00:49,281 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:00:49,324 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:00:49,328 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:00:49,449 - Log -INFO - Username is passed 
+2023-11-27 12:00:49,573 - Log -INFO - Password is passed
+2023-11-27 12:00:51,500 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 12:02:12,918 - Log -INFO - Successfully launched the browser
+2023-11-27 12:02:13,753 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:02:14,035 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:02:14,080 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:02:14,084 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:02:14,214 - Log -INFO - Username is passed 
+2023-11-27 12:02:14,311 - Log -INFO - Password is passed
+2023-11-27 12:02:16,661 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 12:05:25,746 - Log -INFO - Successfully launched the browser
+2023-11-27 12:05:27,693 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:05:27,975 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:05:28,024 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:05:28,029 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:05:28,153 - Log -INFO - Username is passed 
+2023-11-27 12:05:28,274 - Log -INFO - Password is passed
+2023-11-27 12:05:30,082 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 12:05:45,943 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:10:33,649 - Log -INFO - Successfully launched the browser
+2023-11-27 12:10:34,152 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:10:34,401 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:10:34,456 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:10:34,460 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:10:34,595 - Log -INFO - Username is passed 
+2023-11-27 12:10:34,710 - Log -INFO - Password is passed
+2023-11-27 12:10:36,033 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 12:10:51,827 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:12:19,420 - Log -INFO - Successfully launched the browser
+2023-11-27 12:12:20,131 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:12:20,411 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:12:20,454 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:12:20,459 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:12:20,559 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:12:20,690 - Log -INFO - Username is passed 
+2023-11-27 12:12:20,804 - Log -INFO - Password is passed
+2023-11-27 12:12:23,322 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 12:12:24,144 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:17:00,362 - Log -INFO - Successfully launched the browser
+2023-11-27 12:17:01,047 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:17:01,316 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:17:01,361 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:17:01,366 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:17:01,475 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:17:01,597 - Log -INFO - Username is passed 
+2023-11-27 12:17:01,710 - Log -INFO - Password is passed
+2023-11-27 12:17:03,786 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 12:17:04,686 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:18:56,493 - Log -INFO - Successfully launched the browser
+2023-11-27 12:18:57,047 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:18:57,312 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:18:57,358 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:18:57,363 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:18:57,471 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:18:57,607 - Log -INFO - Username is passed 
+2023-11-27 12:18:57,713 - Log -INFO - Password is passed
+2023-11-27 12:18:59,991 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 12:19:00,880 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:29:09,827 - Log -INFO - Successfully launched the browser
+2023-11-27 12:29:10,447 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:29:10,727 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:29:10,778 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:29:10,784 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:29:10,925 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:29:10,947 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 12:29:10,969 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 12:29:11,751 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:31:11,811 - Log -INFO - Successfully launched the browser
+2023-11-27 12:31:13,839 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:31:14,124 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:31:14,170 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:31:14,175 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:31:14,288 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:31:14,311 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 12:31:14,333 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 12:31:15,077 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:37:10,544 - Log -INFO - Successfully launched the browser
+2023-11-27 12:37:11,132 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:37:11,436 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:37:11,483 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:37:11,488 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:37:11,580 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:37:11,602 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 12:37:11,631 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 12:37:11,717 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 12:37:12,421 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:38:52,560 - Log -INFO - Successfully launched the browser
+2023-11-27 12:38:53,211 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:38:53,485 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:38:53,531 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:38:53,536 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:38:53,641 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:38:53,665 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 12:38:53,686 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 12:38:53,792 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 12:38:54,515 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:41:48,570 - Log -INFO - Successfully launched the browser
+2023-11-27 12:41:49,232 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:41:49,493 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:41:49,534 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:41:49,539 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:41:49,631 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:41:49,650 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 12:41:49,671 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 12:41:49,784 - Log -INFO - Alternate Login Text is:
+2023-11-27 12:41:49,788 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 12:41:50,505 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:47:12,852 - Log -INFO - Successfully launched the browser
+2023-11-27 12:47:13,472 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:47:13,755 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:47:13,799 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:47:13,803 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:47:13,912 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:47:13,941 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 12:47:13,959 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 12:47:14,076 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 12:47:14,080 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 12:47:14,779 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 12:54:54,436 - Log -INFO - Successfully launched the browser
+2023-11-27 12:54:55,047 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 12:54:55,305 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:54:55,354 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 12:54:55,360 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 12:54:55,454 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 12:54:55,472 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 12:54:55,497 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 12:54:55,538 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 12:54:55,543 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 12:54:55,667 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 12:54:56,373 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 13:03:55,824 - Log -INFO - Successfully launched the browser
+2023-11-27 13:03:56,508 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 13:03:56,778 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 13:03:56,822 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 13:03:56,826 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 13:03:56,930 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 13:03:56,947 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 13:03:56,966 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 13:03:57,004 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 13:03:57,008 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 13:03:57,152 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 13:03:57,199 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 13:03:58,067 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 15:09:41,369 - Log -INFO - Successfully launched the browser
+2023-11-27 15:09:42,493 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 15:09:42,803 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 15:09:42,853 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 15:09:42,856 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 15:09:42,988 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 15:09:43,012 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 15:09:43,035 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 15:09:43,081 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 15:09:43,086 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 15:09:43,228 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 15:09:43,440 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 15:09:44,369 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 15:14:33,001 - Log -INFO - Successfully launched the browser
+2023-11-27 15:14:33,614 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 15:14:34,604 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 15:15:39,329 - Log -INFO - Successfully launched the browser
+2023-11-27 15:15:39,944 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 15:15:41,092 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 15:19:06,017 - Log -INFO - Successfully launched the browser
+2023-11-27 15:19:06,622 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 15:19:06,899 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 15:19:06,943 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 15:19:06,949 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 15:19:07,052 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 15:19:07,070 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 15:19:07,093 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 15:19:07,135 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 15:19:07,139 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 15:19:07,280 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 15:19:07,328 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 15:19:08,525 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 15:46:45,052 - Log -INFO - Successfully launched the browser
+2023-11-27 15:46:45,678 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 15:46:45,992 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 15:46:46,046 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 15:46:46,054 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 15:46:46,175 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 15:46:46,196 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 15:46:46,216 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 15:46:46,254 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 15:46:46,258 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 15:46:46,400 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 15:46:46,447 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 15:46:47,339 - Log -INFO - Username is passed 
+2023-11-27 15:46:47,441 - Log -INFO - Password is passed
+2023-11-27 15:46:54,439 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 15:46:55,320 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 15:47:23,047 - Log -INFO - Successfully launched the browser
+2023-11-27 15:47:23,676 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 15:47:23,944 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 15:47:23,988 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 15:47:23,993 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 15:47:24,101 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 15:47:24,121 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 15:47:24,142 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 15:47:24,181 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 15:47:24,184 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 15:47:24,328 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 15:47:24,376 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 15:47:25,095 - Log -INFO - Username is passed 
+2023-11-27 15:47:25,200 - Log -INFO - Password is passed
+2023-11-27 15:47:27,467 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 15:47:28,286 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:09:29,482 - Log -INFO - Successfully launched the browser
+2023-11-27 16:09:30,248 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:09:30,519 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:09:30,564 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:09:30,570 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:09:30,692 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:09:30,710 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:09:30,729 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:09:30,770 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:09:30,774 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:09:30,909 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:09:30,951 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:09:31,650 - Log -INFO - Username is passed 
+2023-11-27 16:09:31,668 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:09:31,768 - Log -INFO - Password is passed
+2023-11-27 16:09:33,883 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:09:34,745 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:23:33,095 - Log -INFO - Successfully launched the browser
+2023-11-27 16:23:33,936 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:23:34,212 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:23:34,259 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:23:34,262 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:23:34,368 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:23:34,386 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:23:34,410 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:23:34,454 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:23:34,458 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:23:34,598 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:23:34,641 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:23:35,345 - Log -INFO - Username is passed 
+2023-11-27 16:23:35,363 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:23:50,804 - Log -INFO - Password is passed
+2023-11-27 16:23:53,043 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:23:53,881 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:25:54,730 - Log -INFO - Successfully launched the browser
+2023-11-27 16:25:55,458 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:25:55,745 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:25:55,785 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:25:55,788 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:25:55,890 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:25:55,908 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:25:55,927 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:25:55,969 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:25:55,973 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:25:56,099 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:25:56,140 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:25:56,941 - Log -INFO - Username is passed 
+2023-11-27 16:25:56,972 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:25:57,091 - Log -INFO - Password is passed
+2023-11-27 16:26:14,055 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:26:14,982 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:35:47,396 - Log -INFO - Successfully launched the browser
+2023-11-27 16:35:48,029 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:35:48,326 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:35:48,369 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:35:48,372 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:35:48,486 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:35:48,506 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:35:48,530 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:35:48,580 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:35:48,585 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:35:48,716 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:35:48,762 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:35:49,493 - Log -INFO - Username is passed 
+2023-11-27 16:35:49,521 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:35:49,631 - Log -INFO - Password is passed
+2023-11-27 16:36:06,638 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:36:07,653 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:42:57,142 - Log -INFO - Successfully launched the browser
+2023-11-27 16:42:57,731 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:42:58,006 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:42:58,050 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:42:58,054 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:42:58,156 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:42:58,175 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:42:58,192 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:42:58,233 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:42:58,237 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:42:58,361 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:42:58,398 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:42:59,136 - Log -INFO - Username is passed 
+2023-11-27 16:42:59,165 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:42:59,271 - Log -INFO - Password is passed
+2023-11-27 16:43:16,428 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:43:17,291 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:44:11,081 - Log -INFO - Successfully launched the browser
+2023-11-27 16:44:11,672 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:44:11,928 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:44:11,975 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:44:11,980 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:44:12,083 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:44:12,109 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:44:12,135 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:44:12,178 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:44:12,182 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:44:12,308 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:44:12,345 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:44:13,054 - Log -INFO - Username is passed 
+2023-11-27 16:44:13,077 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:44:13,191 - Log -INFO - Password is passed
+2023-11-27 16:44:13,258 - Log -INFO - http://www.orangehrm.com/
+2023-11-27 16:44:13,264 - Log -INFO - Actual Welcome Admin is NOT matched- FAIL
+2023-11-27 16:44:15,577 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:44:16,400 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:45:46,783 - Log -INFO - Successfully launched the browser
+2023-11-27 16:45:47,352 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:45:47,619 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:45:47,663 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:45:47,668 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:45:47,778 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:45:47,808 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:45:47,830 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:45:47,876 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:45:47,881 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:45:48,019 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:45:48,060 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:45:48,765 - Log -INFO - Username is passed 
+2023-11-27 16:45:48,798 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:45:48,918 - Log -INFO - Password is passed
+2023-11-27 16:46:05,780 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:46:06,744 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:56:51,830 - Log -INFO - Successfully launched the browser
+2023-11-27 16:56:52,423 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:56:52,700 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:56:52,746 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:56:52,750 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:56:52,848 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:56:52,867 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:56:52,883 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:56:52,929 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:56:52,933 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:56:53,059 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:56:53,105 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:56:53,846 - Log -INFO - Username is passed 
+2023-11-27 16:56:53,865 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:56:53,977 - Log -INFO - Password is passed
+2023-11-27 16:57:11,233 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:57:12,130 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 16:57:59,725 - Log -INFO - Successfully launched the browser
+2023-11-27 16:58:00,280 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 16:58:00,544 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:58:00,589 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 16:58:00,594 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 16:58:00,711 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 16:58:00,732 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 16:58:00,752 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 16:58:00,797 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 16:58:00,801 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 16:58:00,936 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 16:58:00,974 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 16:58:01,688 - Log -INFO - Username is passed 
+2023-11-27 16:58:01,707 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 16:58:01,832 - Log -INFO - Password is passed
+2023-11-27 16:58:18,657 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 16:58:19,525 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 17:00:20,479 - Log -INFO - Successfully launched the browser
+2023-11-27 17:00:22,166 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 17:00:23,592 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 17:00:23,690 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 17:00:23,697 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 17:00:23,808 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 17:00:23,830 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 17:00:23,848 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 17:00:23,893 - Log -INFO - Alternate Login Text is:Login
+2023-11-27 17:00:23,897 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-11-27 17:00:24,039 - Log -INFO - Select DropDown Text is:-- Select --
+2023-11-27 17:00:24,085 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-11-27 17:00:24,779 - Log -INFO - Username is passed 
+2023-11-27 17:00:24,800 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 17:00:24,914 - Log -INFO - Password is passed
+2023-11-27 17:00:42,371 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 17:00:43,347 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 17:35:11,375 - Log -INFO - Successfully launched the browser
+2023-11-27 17:35:12,025 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 17:35:12,311 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 17:35:12,354 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 17:35:12,358 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-11-27 17:35:12,479 - Log -INFO - Username is passed 
+2023-11-27 17:35:12,582 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-11-27 17:35:12,690 - Log -INFO - Password is passed
+2023-11-27 17:35:12,709 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 17:35:18,177 - Log -INFO - OrangeHRMapplication LogIn successfully
+2023-11-27 17:35:18,194 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 17:35:18,212 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 17:35:18,262 - Log -INFO - Welcome Admin
+2023-11-27 17:35:18,265 - Log -INFO - Actual Welcome Admin is matched- PASS
+2023-11-27 17:35:19,166 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 18:16:30,723 - Log -INFO - Successfully launched the browser
+2023-11-27 18:16:31,550 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 18:16:31,808 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 18:16:31,965 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 18:16:32,009 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 18:16:32,034 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 18:16:32,905 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 18:17:44,834 - Log -INFO - Successfully launched the browser
+2023-11-27 18:17:45,677 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 18:17:45,916 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 18:17:45,978 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 18:17:46,010 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 18:17:46,032 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 18:17:46,832 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 18:20:01,238 - Log -INFO - Successfully launched the browser
+2023-11-27 18:20:02,179 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 18:20:02,407 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 18:20:02,492 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 18:20:02,511 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 18:20:02,529 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 18:20:03,571 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 18:24:18,778 - Log -INFO - Successfully launched the browser
+2023-11-27 18:24:20,678 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 18:24:20,902 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 18:24:20,976 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 18:24:20,999 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 18:24:21,021 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 18:24:22,304 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 18:24:53,250 - Log -INFO - Successfully launched the browser
+2023-11-27 18:24:53,860 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 18:24:54,071 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 18:24:54,147 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 18:24:54,183 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 18:24:54,208 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 18:24:54,946 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 18:26:02,386 - Log -INFO - Successfully launched the browser
+2023-11-27 18:26:02,982 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 18:26:03,221 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 18:26:03,294 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-11-27 18:26:03,313 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-11-27 18:26:03,332 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-11-27 18:26:04,077 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-11-27 18:27:20,427 - Log -INFO - Successfully launched the browser
+2023-11-27 18:27:21,110 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-11-27 18:27:21,335 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-11-27 18:27:22,115 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+2023-12-01 10:45:06,916 - Log -INFO - Successfully launched the browser
+2023-12-01 10:45:17,090 - Log -INFO - Navigated to OrangeHRM Application LogIn Page
+2023-12-01 10:45:17,351 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-12-01 10:45:17,402 - Log -INFO - The Expected Text of LogIn Panel is:LOGIN Panel
+2023-12-01 10:45:17,406 - Log -INFO - Succesfully Navigated to OrangeHRM LogIn page: PASS
+2023-12-01 10:45:17,530 - Log -INFO - OrangeHRMLogo is displayed sucessfully
+2023-12-01 10:45:17,572 - Log -INFO - OrangeHRM Homepage Title is displayed
+2023-12-01 10:45:17,600 - Log -INFO - OrangeHRM Homepage Url is displayed
+2023-12-01 10:45:17,666 - Log -INFO - Alternate Login Text is:Login
+2023-12-01 10:45:17,670 - Log -INFO - Alternative LogIn is succesfully clicked
+2023-12-01 10:45:17,801 - Log -INFO - Select DropDown Text is:-- Select --
+2023-12-01 10:45:17,841 - Log -INFO - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+2023-12-01 10:45:18,779 - Log -INFO - Username is passed 
+2023-12-01 10:45:18,800 - Log -INFO - actual_HomepageTitle is matched with expcted-PASS
+2023-12-01 10:45:18,920 - Log -INFO - Password is passed
+2023-12-01 10:45:22,187 - Log -INFO - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard

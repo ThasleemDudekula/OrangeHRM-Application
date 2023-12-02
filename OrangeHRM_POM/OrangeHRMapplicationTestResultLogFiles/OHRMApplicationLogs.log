@@ -1,0 +1,569 @@
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRM application username 
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - http://www.orangehrm.com/
+[main] INFO Log - Actual Welcome Admin is NOT matched- FAIL
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - Username is passed 
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - Password is passed
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRMapplication LogIn successfully
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Welcome Admin
+[main] INFO Log - Actual Welcome Admin is matched- PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard
+[main] INFO Log - Successfully launched the browser
+[main] INFO Log - Navigated to OrangeHRM Application LogIn Page
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - The Expected Text of LogIn Panel is:LOGIN Panel
+[main] INFO Log - Succesfully Navigated to OrangeHRM LogIn page: PASS
+[main] INFO Log - OrangeHRMLogo is displayed sucessfully
+[main] INFO Log - OrangeHRM Homepage Title is displayed
+[main] INFO Log - OrangeHRM Homepage Url is displayed
+[main] INFO Log - Alternate Login Text is:Login
+[main] INFO Log - Alternative LogIn is succesfully clicked
+[main] INFO Log - Select DropDown Text is:-- Select --
+[main] INFO Log - OrangeHrmLogInLink is:OrangeHRM 4.2.0.1
+© 2005 - 2023 OrangeHRM, Inc. All rights reserved.
+[main] INFO Log - Username is passed 
+[main] INFO Log - actual_HomepageTitle is matched with expcted-PASS
+[main] INFO Log - Password is passed
+[main] INFO Log - http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/dashboard

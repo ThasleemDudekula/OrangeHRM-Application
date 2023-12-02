@@ -1,0 +1,9 @@
+Feature: OrangeHRM application functionalities testing
+
+Scenario: OrangeHRM application LogIn Test
+
+Given User should open the system
+When User should enter OrangeHRM application URL Address
+Then User should be navigated to OrangeHRM LogIn page
+Then User should close the application along with the Browser
+ 
